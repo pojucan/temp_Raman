@@ -1,2 +1,1 @@
-# temp_Raman
-Este repositório é dedicado ao programa de detecção da temperatura Raman
+Este programa realiza o cálculo da temperatura da amostra ensaiada em Espectroscopia Raman
