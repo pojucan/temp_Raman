@@ -1,6 +1,6 @@
 # Determinação da temperatura por Espectroscopia Raman.
 # Autor: Pojucan M.M.S.
-# Data: 2019/11/03
+# Data: 2019/11/03.
 
 # biblioteca para calculo:
 import math
