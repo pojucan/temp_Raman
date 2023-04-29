@@ -20,10 +20,10 @@ c = 299792458           #velocidade da luz (m/s)
 
 # Calculos parciais:
 pi = math.asin(1.0)*2.0 # valor de pi em radianos        
-llm=llnm*10**-9         # conversao do comprimento de onda (nm) para (1/metros)
-km=k*(1/(10**-2))       # conversao do numero de onda em (1/metros)
-lvm=1/km                # calculo do comprimento de onda de vibração em (1/metros)
-r=ins/inas
+llm = llnm*10**-9         # conversao do comprimento de onda (nm) para (1/metros)
+km = k*(1/(10**-2))       # conversao do numero de onda em (1/metros)
+lvm = 1/km                # calculo do comprimento de onda de vibração em (1/metros)
+r = ins/inas
 
 # Calculos dos Logaritmos neperianos dos termos:
 lnsas = math.log(r)
